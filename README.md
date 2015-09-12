@@ -1,6 +1,6 @@
 # chatter
 
-FIXME
+This is new text!
 
 ## Prerequisites
 
